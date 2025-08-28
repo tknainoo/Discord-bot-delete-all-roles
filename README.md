@@ -1,5 +1,5 @@
 
-# Discord Role Deleter Bot
+# Discord Role Deleter Bot By NAINOO
 
 A Discord bot that allows server administrators to delete **all roles** safely with confirmation.  
 
