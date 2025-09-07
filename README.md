@@ -64,15 +64,3 @@ python bot.py
 
 ---
 
-## License
-
-This project is open-source. Use it at your own risk.
-
-```
-
----
-
-If you want, I can also make a **full zip-ready project structure** with `bot.py`, `requirements.txt`, and `README.md` ready to run immediately.  
-
-Do you want me to do that?
-```
